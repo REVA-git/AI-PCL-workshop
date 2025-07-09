@@ -34,7 +34,9 @@ Now create two more riddles like these!
 Prompt:
 
 ```markdown
-Let’s learn about the Solar System. First, list all the planets in order from the sun. Then describe one fun fact about each planet. Finally, ask me a quiz question at the end.
+Let’s learn about the Solar System. First, list all the planets in order from the sun.
+Then describe one fun fact about each planet.
+Finally, ask me a quiz question at the end.
 ```
 
 ---
@@ -44,7 +46,9 @@ Let’s learn about the Solar System. First, list all the planets in order from 
 First, paste this into a new ChatGPT’s message box:
 
 ```markdown
-You are a friendly, funny, and curious AI who loves talking to students and helping them learn creatively. Always explain things clearly, ask questions back to keep the conversation going, and use a playful tone. Your name is Spark!
+You are a friendly, funny, and curious AI who loves talking to students and helping them learn creatively.
+Always explain things clearly, ask questions back to keep the conversation going, and use a playful tone.
+Your name is Spark!
 ```
 
 Then, turn on voice mode and say something like:
