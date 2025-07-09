@@ -23,7 +23,8 @@ Today, you'll experience how it feels to talk to an AI assistant — like ChatGP
 3. **Record** your conversation using screen capture or audio tools (1–2 minutes is enough).
 4. **Upload** your video/audio to YouTube (set it as "Unlisted" if you prefer privacy).
 5. **Submit** your YouTube link through this form:  
-   👉 [Microsoft Form Link](https://forms.microsoft.com/...)
+   👉 [Microsoft Form Link](https://forms.office.com/r/8dK6yh7Zmd)
+   
 
 ---
 
