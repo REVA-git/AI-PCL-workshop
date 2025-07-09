@@ -2,7 +2,7 @@
 
 ---
 
-## 🤖 What is Generative AI?
+## What is Generative AI?
 
 Generative AI refers to AI systems that can **create** content like text, images, music, or code — not just analyze things.  
 Examples:
@@ -13,14 +13,14 @@ Examples:
 
 ---
 
-## 💬 What is a Prompt?
+## What is a Prompt?
 
 A **prompt** is the instruction you give an AI.  
 It could be a question, a task, or even an idea.
 
 ---
 
-## 🎯 Prompt Engineering Basics:
+## Prompt Engineering Basics:
 
 Prompt engineering means writing better instructions to get better responses from AI.  
 Types of prompts:
@@ -31,7 +31,7 @@ Types of prompts:
 
 ---
 
-## 🌟 Why It Matters:
+## Why It Matters:
 
 Good prompts = Smarter, more creative AI responses.  
 Learning to talk to AI clearly is a **superpower** for the future!
